@@ -19,9 +19,9 @@ File: [Lembke_TM_NBA_case_analysis](https://github.com/maxlembke/NLP_NBA_Fan_Eng
 ### 3) Results
 The reuslts were presented in a PowerPoint with voice-overs in the PowerPoint file to faulty. 
 
-File: [Lembke_TM_NBA_case_presentation](https://github.com/maxlembke/NLP_NBA_Fan_Engagement_Case/blob/main/Lembke_TM_NBA_case_presentation_v1.pptx)
+File: [Lembke_TM_CallOfDuty_case_presentation](https://github.com/maxlembke/NLP_CoD_Case/blob/main/Lembke_TM_CallOfDuty_case_presentation.pptx)
 
 ### Additional Files: 
-Assignment Details: [Case Details provided by faculty](https://github.com/maxlembke/NLP_NBA_Fan_Engagement_Case/blob/main/NBA%20Fan%20Engagement%20Case.docx)
+Assignment Details: [Case Details provided by faculty](https://github.com/maxlembke/NLP_CoD_Case/blob/main/Call%20Of%20Duty%20League%20Case.docx)
 
-Assignment Raw Data: [Data provided by faculty](https://github.com/maxlembke/hult_NLP_student/blob/main/cases/NBA%20Fan%20Engagement/data/A_Oct2019.csv)
+Assignment Raw Data: [Data provided by faculty](https://github.com/maxlembke/hult_NLP_student/tree/main/cases/Call%20of%20Duty%20E-Sport)
